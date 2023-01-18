@@ -3,8 +3,8 @@ import React from 'react'
 const PreviewCard = ({author, date, previewText}) => {
 	return (
 		<>
-			<div class="border border-secondary col-md-6 col-lg-4 col-xl-3 bg-light m1">
-				<div class=" \bg-light p-3 m-3">
+			<div class="border border-secondary col-md-6 col-lg-4 col-xl-3 bg-light m-5">
+				<div class=" \bg-light p-3">
 						<h2>Alaska</h2>
 						<h6>Author: Mario</h6>
 						<h6>Posted: 19/01/2023</h6>
